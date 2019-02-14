@@ -52,7 +52,7 @@
             this.OriginalLabel.Name = "OriginalLabel";
             this.OriginalLabel.Size = new System.Drawing.Size(101, 191);
             this.OriginalLabel.TabIndex = 1;
-            this.OriginalLabel.Text = "Unsorted Guesses: ";
+            this.OriginalLabel.Text = "Unsorted Guesses:\r\n~~~~~~~~~~~~";
             // 
             // SortedLabel
             // 
@@ -62,7 +62,7 @@
             this.SortedLabel.Name = "SortedLabel";
             this.SortedLabel.Size = new System.Drawing.Size(101, 191);
             this.SortedLabel.TabIndex = 2;
-            this.SortedLabel.Text = "Sorted Guesses: ";
+            this.SortedLabel.Text = "Sorted Guesses: \r\n~~~~~~~~~~";
             // 
             // label2
             // 
